@@ -68,7 +68,7 @@ smart_hiring_assistant/
 
 ## Demo Video
 
-Demo Link: *Paste your YouTube video link*
+Demo Link: https://youtu.be/TbxlA5mJMMs
 
 ---
 
